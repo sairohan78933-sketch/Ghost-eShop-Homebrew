@@ -9,9 +9,4 @@
 			
 				"kind": "build",
 			},
-			"presentation": {
-				"reveal": "silent"
-			}
-		}
-	]
-}
+	

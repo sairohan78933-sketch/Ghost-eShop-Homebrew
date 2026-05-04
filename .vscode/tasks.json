@@ -8,7 +8,6 @@
 			"command": "make",
 			
 				"kind": "build",
-				"isDefault": true
 			},
 			"presentation": {
 				"reveal": "silent"
